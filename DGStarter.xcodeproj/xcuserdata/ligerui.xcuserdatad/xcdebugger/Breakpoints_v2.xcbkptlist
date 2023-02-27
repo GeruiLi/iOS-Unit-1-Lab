@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F60F4D9-8278-48F2-A7DB-11C4B3759341"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DGStarter/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - ea1567c21af36121"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel3.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - bd90b4f1ebe4c55d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel3.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - 81896e9718cc882c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel3.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - a942ff4181efc76e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel3.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - 70727244cd6f34a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DGStarter.DetailViewController"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "654">
+               </Location>
+               <Location
+                  uuid = "2C99C14A-B45F-4DA8-8C38-DD967675E332 - 8ea9a4791cfd3fd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DGStarter.DetailViewController&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "611">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DGStarter/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - 3e30ed8400950bc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel4.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - c1bc3abbd18e6fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel4.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - d5b4f55906962cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel4.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - f1b7476f498780"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.factLabel4.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - 70727244cd6f3543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DGStarter.DetailViewController"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "697">
+               </Location>
+               <Location
+                  uuid = "6DA82428-CD8E-47BA-A522-A327180A8CB3 - 8ea9a4791cfd3e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DGStarter.DetailViewController&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ligerui/Downloads/DGStarter-main/DGStarter/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "654">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
